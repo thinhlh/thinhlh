@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Thinh but you can call me To @thinhlh
 - 👀 I’m interested in software development as well as algorithms
-- 🌱 I’m currently learning Flutter and Software Engineering at UIT in Vietnam
+- 🌱 I’m currently learning Mobile Development, Flutter and Software Engineering at UIT in Vietnam
 - 💞️ I’m looking to collaborate on mobile-based projects especially in Flutter and Native
 - 📫 How to reach me 
   - Email: thinhlh0812@gmail.com
