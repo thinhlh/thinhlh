@@ -5,6 +5,7 @@
 - 📫 How to reach me 
   - Email: thinhlh0812@gmail.com
   - Facebook: https://www.facebook.com/hoang.thinh.0812
+  - Linkedin: https://www.linkedin.com/in/le-hoang-thinh/
 
 <!---
 thinhlh/thinhlh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
