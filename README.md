@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Hoang Thinh but you can call me To @thinhlh
-- 👀 I’m interested in software development as well as algorithms
-- 🌱 I’m currently learning Mobile Development, Flutter and Software Engineering at UIT in Vietnam
+- 👋 Hi, I’m Hoang Thinh but you can call me To
+- 👀 I’m interested in software development as well as algorithms and Natural Language Processing
+- 🌱 I’m currently learning Mobile Development (especially application architecture). My main major is Software Engineering at UIT - VNU
+- Currently, I am working as a freelance Flutter developer and Android Developer for COVISOFT.
 - 💞️ I’m looking to collaborate on mobile-based projects especially in Flutter and Native
 - 📫 How to reach me 
   - Email: thinhlh0812@gmail.com
