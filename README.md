@@ -8,6 +8,9 @@
   - Facebook: https://www.facebook.com/hoang.thinh.0812
   - Linkedin: https://www.linkedin.com/in/le-hoang-thinh/
 
+![](https://github.com/thinhlh/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/thinhlh/github-stats/blob/master/generated/languages.svg)
+
 <!---
 thinhlh/thinhlh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
