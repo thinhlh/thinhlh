@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hoang Thinh but you can call me To
+- 👋 Hi, I’m Hoang Thinh
 - 👀 I’m interested in software development as well as algorithms and Natural Language Processing
 - 🌱 I’m currently learning Mobile Development (especially application architecture). My main major is Software Engineering at UIT - VNU
 - Currently, I am working as a freelance Flutter developer and Android Developer for COVISOFT.
