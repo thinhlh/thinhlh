@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoang Thinh
 - 👀 I’m interested in software development as well as algorithms and Natural Language Processing
 - 🌱 I’m currently learning System Design (especially application architecture). My main major is Software Engineering at UIT - VNU
-- Currently, I am working as a Software Engineer at COVISOFT.
+- Currently, I am working as a Software Engineer at TVTGroup.
 - 📫 How to reach me 
   - Email: thinhlh0812@gmail.com
   - Facebook: https://www.facebook.com/hoang.thinh.0812
