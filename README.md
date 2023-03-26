@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hoang Thinh
-- 👀 I’m interested in software development as well as algorithms and Natural Language Processing
+- 👋 Hi, I’m Hoang Thinh. You could call me Jamie
+- 👀 I’m interested in software development, software architectures and Natural Language Processing
 - 🌱 I’m currently learning System Design (especially application architecture). My main major is Software Engineering at UIT - VNU
-- Currently, I am working as a Software Engineer at TVTGroup.
+- Currently, I am working as a Software Engineer at McKinsey.
 - 📫 How to reach me 
   - Email: thinhlh0812@gmail.com
   - Facebook: https://www.facebook.com/hoang.thinh.0812
