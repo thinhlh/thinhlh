@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hoang Thinh. You could call me Jamie
+- 👋 Hi, I’m Hoang Thinh. You could call me Jamie.
 - 👀 I’m interested in software development, software architectures, backend, system design, distributed system, mobile development and Natural Language Processing
 - Currently, I am working as a Software Engineer at McKinsey & Company
 - 📫 How to reach me 
